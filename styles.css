@@ -28,7 +28,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 100px;
+    padding: 10px 10px;
 }
 
 nav a{
@@ -121,11 +121,12 @@ nav a:hover{
 }
 
 .heading h2{
-    color: #582c4d;
+    color: black;
 }
 
 .heading h1{
     font-size: 2rem;
+    color: #582c4d;
 }
 
 .service-box{
@@ -164,7 +165,7 @@ nav a:hover{
     transition: all 0.5s ease;
     box-shadow: 10px 10px 41px rgba(0, 0, 0, 0.5);
 }
-/* Products Section */
+/* Clothes Section */
 #products{
     padding: 50px 100px;
 }
